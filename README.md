@@ -1,1 +1,0 @@
-# nSII-Calculator
